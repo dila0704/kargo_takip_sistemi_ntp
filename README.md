@@ -4,6 +4,7 @@ Bu proje, Windows Forms ile geliştirilen bir kargo takip uygulamasıdır. Kulla
 
 
 🔧Temel Yapı
+
   Gonderi sınıfı, tüm gönderilerin ortak özelliklerini tutar.
 
  Yurtici ve Yurtdisi sınıfları, Gonderi sınıfından kalıtım alır.
@@ -18,6 +19,7 @@ Bu proje, Windows Forms ile geliştirilen bir kargo takip uygulamasıdır. Kulla
 
  
 📍Özellikler
+
  Gönderi oluşturma (yurtiçi veya yurtdışı)
 
  Gönderi durumunu değiştirme (enum üzerinden)
@@ -31,6 +33,7 @@ Bu proje, Windows Forms ile geliştirilen bir kargo takip uygulamasıdır. Kulla
 
 
 📌 Genel Görünüm:
+
 Uygulama açıldığında kullanıcıyı sade ve işlevsel bir arayüz karşılar. Formun sağ tarafında, sisteme eklenmiş olan gönderiler tablo (DataGridView) şeklinde listelenir. Sol tarafta ise yeni gönderi ekleme, gönderi tipi seçimi ve takip işlemleri için giriş alanları yer alır.
 
 
