@@ -1,7 +1,7 @@
- 📦 Kargo Takip Sistemi
+  Kargo Takip Sistemi
  Bu proje, Windows Forms ile geliştirilen bir kargo takip uygulamasıdır. Kullanıcılar yeni gönderiler oluşturabilir, gönderi durumlarını güncelleyebilir ve gönderileri takip edebilir.
 
-🔧 Temel Yapı
+ - Temel Yapı
  * Gonderi sınıfı, tüm gönderilerin ortak özelliklerini tutar.
 
  *Yurtici ve Yurtdisi sınıfları, Gonderi sınıfından kalıtım alır.
@@ -10,8 +10,10 @@
  Bekliyor, Yolda, TeslimEdildi.
 
  *ITakipEdilebilir arayüzü, takip numarası ve gönderi durumu gibi ortak davranışları tanımlar ve Gonderi sınıfı tarafından implement edilir.
+
+
  
- 🚀 Özellikler
+ - Özellikler
  *Gönderi oluşturma (yurtiçi veya yurtdışı)
 
  *Gönderi durumunu değiştirme (enum üzerinden)
@@ -21,6 +23,8 @@
  *Dosyaya veri kaydetme ve okuma
 
  *Modern görünümlü arayüz (DataGridView tabanlı listeleme)
+
+
 
 📌 Genel Görünüm:
 Uygulama açıldığında kullanıcıyı sade ve işlevsel bir arayüz karşılar. Formun sağ tarafında, sisteme eklenmiş olan gönderiler tablo (DataGridView) şeklinde listelenir. Sol tarafta ise yeni gönderi ekleme, gönderi tipi seçimi ve takip işlemleri için giriş alanları yer alır.
