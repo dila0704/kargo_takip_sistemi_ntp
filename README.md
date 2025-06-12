@@ -39,7 +39,9 @@ Uygulama açıldığında kullanıcıyı sade ve işlevsel bir arayüz karşıla
 
 
 
-<img width="780" alt="Ekran Resmi 2025-06-12 12 15 30" src="https://github.com/user-attachments/assets/9f2b7a5c-0f09-4d6d-9fe2-d00f9b822ff0" />
+
+<img width="756" alt="Ekran Resmi 2025-06-12 13 12 23" src="https://github.com/user-attachments/assets/4eaedb29-0159-4ba7-a649-6cdeebbf3066" />
+
 
 
 
@@ -48,20 +50,26 @@ Uygulama açıldığında kullanıcıyı sade ve işlevsel bir arayüz karşıla
 Gönderi Durumunu Seçme:
 
 
-<img width="780" alt="Ekran Resmi 2025-06-12 11 49 58" src="https://github.com/user-attachments/assets/4d377045-ec58-4366-b5b9-6cea3893edd8" />
+
+<img width="756" alt="Ekran Resmi 2025-06-12 13 12 37" src="https://github.com/user-attachments/assets/2d049b33-6596-4d49-9930-2c7d13d5c283" />
+
 
 
 
 Gönderi Tipini Seçme:
 
 
-<img width="780" alt="Ekran Resmi 2025-06-12 11 50 06" src="https://github.com/user-attachments/assets/c5ed70a6-7f35-48f1-8e5f-74b32df0b177" />
+
+<img width="756" alt="Ekran Resmi 2025-06-12 13 13 04" src="https://github.com/user-attachments/assets/bb42342d-67f3-4496-be02-11b88f957ee5" />
 
 
 
 Gönderi Sorgulama:
 
 
-<img width="780" alt="Ekran Resmi 2025-06-12 11 50 24" src="https://github.com/user-attachments/assets/dbeb9a3a-bc8f-40b3-9379-dc59de418683" />
+
+<img width="782" alt="Ekran Resmi 2025-06-12 13 13 32" src="https://github.com/user-attachments/assets/72fa84a3-73c5-4862-a19a-e96647a5b360" />
+
+
 
 
