@@ -1,5 +1,5 @@
   Kargo Takip Sistemi
- Bu proje, Windows Forms ile geliştirilen bir kargo takip uygulamasıdır. Kullanıcılar yeni gönderiler oluşturabilir, gönderi durumlarını güncelleyebilir ve gönderileri takip edebilir.
+Bu proje, Windows Forms ile geliştirilen bir kargo takip uygulamasıdır. Kullanıcılar yeni gönderiler oluşturabilir, gönderi durumlarını güncelleyebilir ve gönderileri takip edebilir.
 
 
  - Temel Yapı
@@ -34,7 +34,9 @@ Uygulama açıldığında kullanıcıyı sade ve işlevsel bir arayüz karşıla
 
 
 
-<img width="805" alt="Ekran Resmi 2025-06-12 11 49 40" src="https://github.com/user-attachments/assets/6fcb8099-4730-441c-a787-90448cee728f" />
+
+<img width="780" alt="Ekran Resmi 2025-06-12 12 15 30" src="https://github.com/user-attachments/assets/9f2b7a5c-0f09-4d6d-9fe2-d00f9b822ff0" />
+
 
 
 
