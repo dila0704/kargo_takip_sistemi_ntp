@@ -26,7 +26,7 @@ Bu proje, Windows Forms ile geliştirilen bir kargo takip uygulamasıdır. Kulla
 
  Takip numarasıyla sorgulama
 
- Dosyaya veri kaydetme ve okuma
+ Dosyaya veri kaydetme ve okuma (veriler.txt)
 
  Modern görünümlü arayüz (DataGridView tabanlı listeleme)
 
