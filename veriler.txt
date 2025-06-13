@@ -1,8 +1,0 @@
-Yurtici|100001|Ahmet Yılmaz|TeslimEdildi
-Yurtdisi|100002|Elif Koç|TeslimEdildi
-Yurtici|100003|Murat Demir|Yolda
-Yurtici|100004|Ayşe Can|Yolda
-Yurtici|100007|Fatma Güneş|Bekliyor
-Yurtdisi|100008|Cem Öztürk|Yolda
-Yurtici|100009|Berkay Aslan|TeslimEdildi
-Yurtdisi|100010|Dila Alpay|Bekliyor
